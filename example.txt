@@ -1,1 +1,2 @@
-This is the master branch example text
+This is the master branch (with the incoming b-branch) example text
+
